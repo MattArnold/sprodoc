@@ -1,0 +1,85 @@
+PWODOC - Placing Workers On Decks Of Cards
+
+In this game, players place pawns on decks of cards in order to draw cards from them or play cards into them. The objective is to put cards of your color in the same deck with as many trump cards as possible at the end of the game.
+
+EQUIPMENT
+
+A Tarot deck.
+
+Four pawns of each color and shape combination: red, blue, green, yellow; rock, paper, scissors-- a total of 48 pawns.
+
+SETUP
+
+Set up the game for all four players, even if there are fewer than four players.
+
+Remove the fives and sixes of each suit, and the Fool. Place them face-down in the middle of the table in any arrangement, with at least a card-width of space between them. These are called sites. They serve as the board of the game, and are not picked up, flipped, or otherwise moved.
+
+Each site will have its own draw pile, its own discard pile, and a place to put pawns. The draw pile for each site will be on top of it, at a right angle, so that the site is in landscape orientation and the pile is in portrait orientation. Pawns will be placed on the area of the site which sticks out from under the draw pile. When cards are played into a site's discard pile, they will be placed touching the edge of the site.
+
+To set up the decks, sort the cards into the following stacks:
+
+4 kings (red player), 4 queens (gold player), 4 knights (blue player), 4 pages (green player),
+6 cups (ace-6), 6 coins (ace-6), 6 wands (ace-6), 4 swords (ace-4), 
+5 trumps (1 Magician through 5 Hierophant)
+
+Set aside the remaining tarot cards as a bank, within reach of the players.
+
+Put each of the following stacks face-up into the draw pile of a different random site: 
+
+Kings, queens, knights, pages, cups, coins, wands.
+
+There are 4 swords and 5 trumps to be set up. Put one Sword card face-up on the discard pile of every site that has face cards. Put one trump face-up on the discard pile of every other site. There will be one site with no cards in its draw pile yet.
+
+Although players may conceal which cards they hold in their hands, all cards on the board are always face-up. Only the top card should be visible on a draw pile or discard pile, so be careful not to jostle the piles. If the identity or sequence of the cards in a draw pile are accidentally revealed, set aside the card that should be visible, shuffle the rest of the pile face down, return the visible card, and flip the pile face-up. 
+
+On each face card site, place a rock, a paper, and a scissors of that player's color. Give the remaining pawns to their players.
+
+TAKING A TURN
+
+Each player in turn places a pawn until no players have any more legal placements. Then, each player in turn removes one pawn, until all pawns are removed.
+
+HOW TO PLACE PAWNS
+
+Placing pawns is done within these restrictions: 
+
+Rocks may not enter a site which has paper. 
+Paper may not enter a site which has scissors.
+Scissors may not enter a site which has rock.
+
+However, placing a pawn does not remove any pawn placed previously. For instance, if a site contains a paper, and a scissors is added, the paper remains. Scissors now prevents new paper from entering until the scissors leaves the site.
+
+HOW TO RETURN PAWNS
+
+Each pawn performs an action represented by its shape when it returns from a site:
+
+-For each rock you return, put a card from your hand into this site's discard pile and carry out its effect, if any.
+-For each paper you return, discard the top card from this site's draw pile into this site's discard pile and carry out its effect, if any.
+-For each scissors you return, draw the top card from this site's draw pile into your hand.
+
+If a paper or scissors returns from a site with an empty draw pile, first shuffle its discard pile to become its new draw pile, then return the pawn. (If a draw pile is empty, but no one is removing a paper or scissors from that site at this time, do not shuffle that site yet.)
+
+When you take back a scissors pawn from a site, if there are no cards in the draw pile to take, and there is no discard pile to shuffle, instead take the Sword or Trump card in the bank that has the highest value.
+
+The hand size limit is four cards. If you already have four cards when you bring back a scissors pawn, the scissors returns with nothing.
+
+PLAYING CARDS: 
+
+When you use a Rock, put a card from your hand into the discard pile of the site from which you returned the Rock. 
+
+Then, carry out the effect of the suit on the card you put into the site:
+
+Cup: Draw a card from the site you put this into.
+
+Coin: Look at the hand of a player who has more cards than any other player (or is tied). Exchange a non-face card in that hand with a non-face card in your hand.
+
+Wand: Disregarding the rock/paper/scissors exclusion rules, place a pawn into any site immediately.
+
+Sword or Major Arcana: Put the card you played into the bank, not the site. From the Sword or Major Arcana cards in the bank with a higher value than the card you played, take the lowest-valued one. Put it in the site. Check whether this ends the game.
+
+End game and scoring:
+
+When a Sword or Major Arcana is played, but there is no higher-valued Sword or Major Arcana in the bank, the game is over.
+
+All face cards in the hands of opponents are returned to their owners. Each player places the group of their own face cards that they received this way, into one site of their choice. One's own face cards in one's own hand at the end of the game must remain there, and are worth nothing.
+
+Look through each site one at a time. In each site, each face card earns a number of points for its owner, equal to the number of Major Arcana in the site, minus the number of Swords in the site. Whoever has the most points wins.
